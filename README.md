@@ -1,4 +1,4 @@
-
+<div class="container" style="align-left">
 
 ### JDBC 5-Step Guide
 
@@ -13,3 +13,4 @@
 5. **Closing Resources**: Always close JDBC resources (`Connection`, `Statement`, `ResultSet`) using `close()` to release database and JDBC resources.
 
 This concise guide provides the essential steps to use JDBC effectively in your Java projects. For detailed information and advanced usage, refer to JDBC documentation and database-specific resources.
+</div>
